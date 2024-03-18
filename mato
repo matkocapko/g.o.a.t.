@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja prvá webová stránka</title>
+</head>
+<body>
+    <header>
+        <h1>Vitajte na mojej webovej stránke</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Domov</a></li>
+            <li><a href="#">O nás</a></li>
+            <li><a href="#">Kontakt</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>O nás</h2>
+            <p>Tu môžete napísať niečo o sebe alebo o svojom projekte.</p>
+        </section>
+
+        <section>
+            <h2>Kontakt</h2>
+            <p>Naše kontaktné údaje: matejcapek7373@gmail.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Moja webová stránka</p>
+    </footer>
+</body>
+</html>
+
